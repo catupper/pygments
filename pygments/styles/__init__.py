@@ -23,6 +23,7 @@ STYLE_MAP = {
     'murphy':   'murphy::MurphyStyle',
     'manni':    'manni::ManniStyle',
     'monokai':  'monokai::MonokaiStyle',
+    'kmonokai':  'kmonokai::KMonokaiStyle',
     'perldoc':  'perldoc::PerldocStyle',
     'pastie':   'pastie::PastieStyle',
     'borland':  'borland::BorlandStyle',

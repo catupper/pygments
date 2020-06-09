@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-    pygments.styles.monokai
+    pygments.styles.kmonokai
     ~~~~~~~~~~~~~~~~~~~~~~~
 
-    Mimic the Monokai color scheme. Based on tango.py.
+    KMonokai is a minor updated version of Monokai
 
     http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 
@@ -15,9 +15,9 @@ from pygments.style import Style
 from pygments.token import Keyword, Name, Comment, String, Error, Text, \
      Number, Operator, Generic, Whitespace, Punctuation, Other, Literal
 
-class MonokaiStyle(Style):
+class KMonokaiStyle(Style):
     """
-    This style mimics the Monokai color scheme.
+    This style mimics the KMonokai color scheme.
     """
 
     background_color = "#272822"
