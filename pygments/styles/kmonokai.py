@@ -3,7 +3,7 @@
     pygments.styles.kmonokai
     ~~~~~~~~~~~~~~~~~~~~~~~
 
-    KMonokai is a minor updated version of Monokai
+    Kmonokai is a minor updated version of Monokai
 
     http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
 
@@ -15,9 +15,9 @@ from pygments.style import Style
 from pygments.token import Keyword, Name, Comment, String, Error, Text, \
      Number, Operator, Generic, Whitespace, Punctuation, Other, Literal
 
-class KMonokaiStyle(Style):
+class KmonokaiStyle(Style):
     """
-    This style mimics the KMonokai color scheme.
+    This style mimics the Kmonokai color scheme.
     """
 
     background_color = "#272822"
